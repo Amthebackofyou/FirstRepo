@@ -1,0 +1,5 @@
+db.E_1.drop();
+db.createCollection("E_1");
+db.E_1.insert(
+{
+});
